@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPI_FinalLab.dll"</Assembly>
+		<AddInId>43BEE3AC-3550-4AC1-A51B-906ADC09A219</AddInId>
+		<FullClassName>RevitAPI_FinalLab.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание марок помещений</Text>
+	</AddIn>
+</RevitAddIns>
